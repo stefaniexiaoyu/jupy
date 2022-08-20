@@ -15,6 +15,7 @@ dependencies:
     - geographiclib
     - geopandas
     - geopy
+    - geos
     - importlib-metadata
     - ipykernel
     - lightgbm
@@ -32,6 +33,7 @@ dependencies:
     - requests
     - scikit-learn
     - Scipy
+    - Shapely
     - sklearn
     - spacy
     - sympy
